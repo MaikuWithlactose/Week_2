@@ -1,4 +1,4 @@
-class Vector {
+export class Vector {
     private elements: number[];
   
     constructor(n: number, k: number) {

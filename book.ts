@@ -57,13 +57,5 @@ export class Book {
       return `Title – ${this.title}\nNumer of Pages – ${this.nPages}\nISBN – ${this.isbn}\nAuthor – ${this.author}\nEditorial – ${this.editorial}`;
     }
   }
-  
-
-
-
-  // añadir libros
-
- // export { Book };
-
 
 
